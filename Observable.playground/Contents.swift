@@ -17,6 +17,7 @@ Observable<Int>.create { observer in
     return Disposables.create()
 }
 
+
 // # 1-2. Just 연산을 통해 Observable을 생성하는 방법
 Observable<Int>.just(5)
     .subscribe { item in print(item)}
