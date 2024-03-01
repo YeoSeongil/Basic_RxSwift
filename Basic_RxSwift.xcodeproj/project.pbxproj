@@ -20,6 +20,7 @@
 		7748F541CFE192BFB4EA1208 /* Pods-Basic_RxSwift.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-Basic_RxSwift.debug.xcconfig"; path = "Target Support Files/Pods-Basic_RxSwift/Pods-Basic_RxSwift.debug.xcconfig"; sourceTree = "<group>"; };
 		9EA3373C2B90BCE60071564F /* Subject.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Subject.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9EA3373D2B91A0F00071564F /* Relay.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Relay.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
+		9EA3373E2B91A80C0071564F /* Operator.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = Operator.playground; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.swift; };
 		9EDEAEB22B9022C000D6B3B6 /* Basic_RxSwift.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Basic_RxSwift.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9EDEAEB52B9022C000D6B3B6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		9EDEAEB72B9022C000D6B3B6 /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -64,6 +65,7 @@
 		9EDEAEA92B9022BF00D6B3B6 = {
 			isa = PBXGroup;
 			children = (
+				9EA3373E2B91A80C0071564F /* Operator.playground */,
 				9EA3373D2B91A0F00071564F /* Relay.playground */,
 				9EA3373C2B90BCE60071564F /* Subject.playground */,
 				9EDEAF0D2B90260700D6B3B6 /* Observable.playground */,
